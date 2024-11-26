@@ -62,3 +62,5 @@ plt.xticks(rotation=45)
 
 plt.show()
 supply_pressure_df['GSCPI'].describe()
+
+
